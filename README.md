@@ -1,2 +1,2 @@
 # Pandas
-Introdução a biblioteca Pandas. 
+Introdução à biblioteca Pandas. 
